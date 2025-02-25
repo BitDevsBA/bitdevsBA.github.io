@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>BitDevsBA</title>
+    <subtitle>BitDevsBA es una comunidad en Buenos aires para aquellos interesados en discutir y participar en la investigación y desarrollo de Bitcoin y protocolos y software relacionados.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://www.bitdevsba.org/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.bitdevsba.org"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-02-25T00:00:00+00:00</updated>
+    <id>https://www.bitdevsba.org/atom.xml</id>
+    <entry xml:lang="en">
+        <title>BitdevsBA Seminario Socratico #2 </title>
+        <published>2025-02-25T00:00:00+00:00</published>
+        <updated>2025-02-25T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.bitdevsba.org/socratic-seminar-2/"/>
+        <id>https://www.bitdevsba.org/socratic-seminar-2/</id>
+        
+        <content type="html" xml:base="https://www.bitdevsba.org/socratic-seminar-2/">&lt;h3 id=&quot;cronograma&quot;&gt;Cronograma&lt;&#x2F;h3&gt;
+&lt;p&gt;19:00hrs Birras y empanadas por Librería de Satoshi&lt;&#x2F;p&gt;
+&lt;p&gt;19:30hrs Seminario Socrático por Librería de Satoshi&lt;&#x2F;p&gt;
+&lt;p&gt;21:30hrs Cierre y Networking&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;lugar&quot;&gt;Lugar&lt;&#x2F;h3&gt;
+&lt;p&gt;Este evento se llevará a cabo en &lt;strong&gt;Espacio Cultural Bitcoin&lt;&#x2F;strong&gt; Gracias por apoyar el evento!&lt;&#x2F;p&gt;
+&lt;p&gt;Si quieres que BitDevs sea en tu espacio: recruit@b4os.dev&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;Espacio+Cultural+Bitcoin&#x2F;@-34.5961172,-58.3758662,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x95bccaca9519acd9:0x40f35fdebe477281!8m2!3d-34.5961172!4d-58.3732859!16s%2Fg%2F11bw82ly07?entry=ttu&amp;amp;g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D&quot;&gt;Cómo llegar:&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sugerencias&quot;&gt;Sugerencias&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sé cortés y amable. El objetivo es la búsqueda de una comprensión más profunda.
+Respeta los diferentes pensamientos e ideas.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Complementa con imágenes or websites las intervenciones verbales preparadas de más de 3 min, recuerda no extenderte más de 10 min, todas las presentaciones incluyendo preguntas son de 10 min como máximo.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;recordatorios&quot;&gt;Recordatorios&lt;&#x2F;h3&gt;
+&lt;p&gt;No fotos, no videos, pero audio recoding = OK&lt;&#x2F;p&gt;
+&lt;p&gt;Deja el espacio limpio.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;que-es-un-seminario-socratico-de-bitdevs&quot;&gt;Qué es un seminario socrático de BitDevs?&lt;&#x2F;h3&gt;
+&lt;p&gt;El seminario socrático de BitDevs o Bitcoin Developers es un evento mensual diseñado para promover el debate, el intercambio de información y la discusión sobre temas técnicos relacionados con Bitcoin y su ecosistema. Estos seminarios siguen un formato participativo, en el que se discuten y se hacen preguntas sobre temas recopilados por los miembros del grupo antes del evento.
+Los temas provienen de varias fuentes, como &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;publications&#x2F;&quot;&gt;Bitcoin Optech&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;&quot;&gt;lightning-dev&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;murchandamus&quot;&gt;Murch&#x27;s Twitter&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.reviews&#x2F;&quot;&gt;Bitcoin PR Review Club&lt;&#x2F;a&gt;, y pull requests en repositorios populares de proyectos Bitcoin.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Los Seminarios Socráticos se celebran bajo la Regla de &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;:&lt;&#x2F;li&gt;
+&lt;li&gt;Puedes compartir la información recibida, pero no reveles la identidad de quien la ha dicho.&lt;&#x2F;li&gt;
+&lt;li&gt;Cuando una reunión, o parte de ella, se celebra bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación del orador u oradores, ni dónde se escucho la información, ni la de ningún otro participante.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;running-a-great-socratic-seminar&#x2F;&quot;&gt;Source&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncios&quot;&gt;Anuncios&lt;&#x2F;h3&gt;
+&lt;p&gt;Estamos muy contentos de presentar seminario socrático #2 &lt;a href=&quot;&#x2F;about&quot;&gt;Seminario Socrático&lt;&#x2F;a&gt;!
+Un agradecimiento especial a nuestros sponsors &lt;a href=&quot;https:&#x2F;&#x2F;libreriadesatoshi.com&#x2F;&quot;&gt;Libreria de Satoshi&lt;&#x2F;a&gt;
+por las bebidas y comida y por confiarnos estas instalaciones a &lt;a href=&quot;https:&#x2F;&#x2F;www.espacioculturalbitcoin.com&#x2F;&quot;&gt;Espacio Cultural Bitcoin&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;estadisticas-de-la-red&quot;&gt;Estadísticas de la Red&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;warmup&quot;&gt;Warmup&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.activism.net&#x2F;cypherpunk&#x2F;manifesto.html&quot;&gt;A Cypher punk manifiesto&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;donald-trump-frees-ross&#x2F;&quot;&gt;Pardon to Ross Ulbricht&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;observations&#x2F;13-missing-sanctioned-transactions-2024-12&#x2F;&quot;&gt;Fifteen OFAC-sanctioned transactions missing from blocks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;eventos-y-noticias&quot;&gt;Eventos y Noticias&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;btcplusplus.dev&#x2F;conf&#x2F;floripa&quot;&gt;bitcoin++: Florianópolis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightning.engineering&#x2F;posts&#x2F;2025-01-30-Tether-on-Lightning&#x2F;&quot;&gt;Tether on lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bullbitcoin.com&#x2F;blog&#x2F;bull-bitcoin-wallet-payjoin&quot;&gt;Bull bitcoin releases serverless async Payjoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lanzamientos&quot;&gt;Lanzamientos&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoindevkit&#x2F;bdk&#x2F;releases&quot;&gt;BDK v1.1.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;fedimint&#x2F;fedimint&#x2F;releases&#x2F;tag&#x2F;v0.5.0&quot;&gt;Fedimint v0.5.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;blockstream-launches-jade-plus-signing-device&#x2F;&quot;&gt;New Jade plus&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;citadel-tech&#x2F;coinswap&#x2F;releases&#x2F;tag&#x2F;v0.1.0&quot;&gt;Coinswap v0.1.0, What is coinswap?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;bitcoin-core-v28-1&#x2F;&quot;&gt;Bitcoin core v28.1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;proton.me&#x2F;blog&#x2F;wallet-launch&quot;&gt;Proton wallet available (build with BDK BTW)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sparrowwallet&#x2F;sparrow&#x2F;releases&#x2F;tag&#x2F;2.1.0&quot;&gt;Sparrow 2.1.0 exorcizing Python from the HWI implementation and PSBT v2 support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;walletscrutiny.com&#x2F;&quot;&gt;Wallet Scrutiny&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.reviews&#x2F;31363&quot;&gt;Cluster mempool: introduce TxGraph&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;unspendable-keys-in-descriptors&#x2F;304&#x2F;32&quot;&gt;NUMS (Nothing Up My Sleeve) keys&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;alpenlabs&#x2F;bitcoin-bosd&quot;&gt;BOSD - Bitcoin Output Script Descriptor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;analyzing-mining-pool-behavior-to-address-bitcoin-cores-double-coinbase-reservation-issue&#x2F;1351&quot;&gt;Investigating mining pool behavior before fixing a Bitcoin Core bug&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;callebtc&#x2F;status&#x2F;1892113315620368453&quot;&gt;Possible LN exploit in the wild&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;releases&#x2F;tag&#x2F;v0.18.5-beta&quot;&gt;LND v0.18.5&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;1228&quot;&gt;Zero fee commitment using v3 transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;zk-gossip-for-lightning-channel-announcements&#x2F;1407&quot;&gt;ZK gossip for Lightning Channel Announcements&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;lightningdevkit&#x2F;status&#x2F;1889012940973449572&quot;&gt;LDK Pathfinding leveled up&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drops.dagstuhl.de&#x2F;storage&#x2F;00lipics&#x2F;lipics-vol316-aft2024&#x2F;LIPIcs.AFT.2024.12&#x2F;LIPIcs.AFT.2024.12.pdf&quot;&gt;Payment censorship in the lightning network decrypted communication&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;oportunidades-educativas-o-laborales&quot;&gt;Oportunidades educativas o laborales&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinerjobs.com&#x2F;&quot;&gt;Bitcoiner Jobs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.summerofbitcoin.org&#x2F;&quot;&gt;Summer of Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;learning.chaincode.com&#x2F;&quot;&gt;Chaincode Labs: Bitcoin and Lightning Protocol Development Education&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>BitdevsBA Seminario Socratico #1 </title>
+        <published>2024-12-03T00:00:00+00:00</published>
+        <updated>2024-12-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.bitdevsba.org/socratic-seminar-1/"/>
+        <id>https://www.bitdevsba.org/socratic-seminar-1/</id>
+        
+        <content type="html" xml:base="https://www.bitdevsba.org/socratic-seminar-1/">&lt;h3 id=&quot;cronograma&quot;&gt;Cronograma&lt;&#x2F;h3&gt;
+&lt;p&gt;19:00hrs Birras y empanadas por Librería de Satoshi&lt;&#x2F;p&gt;
+&lt;p&gt;19:30hrs Seminario Socrático por Librería de Satoshi&lt;&#x2F;p&gt;
+&lt;p&gt;20:30hrs Cierre y Networking&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;lugar&quot;&gt;Lugar&lt;&#x2F;h3&gt;
+&lt;p&gt;Este evento se llevará a cabo en &lt;strong&gt;La Crypta&lt;&#x2F;strong&gt;:
+Villanueva 1367. Buenos Aires, Argentina.&lt;&#x2F;p&gt;
+&lt;p&gt;Gracias por otorgar el lugar.
+Si quieres que BitDevs sea en tu espacio:  recruit@b4os.dev&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com.ar&#x2F;maps&#x2F;place&#x2F;Villanueva+1367,+C1426BMI+Cdad.+Aut%C3%B3noma+de+Buenos+Aires&#x2F;@-34.5647265,-58.4457132,17z&#x2F;data=!3m1!4b1!4m6!3m5!1s0x95bcb5c8870cdc23:0xc945d369aa39b3e0!8m2!3d-34.5647309!4d-58.4431383!16s%2Fg%2F11sp4dwkl3?entry=ttu&amp;amp;g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sugerencias&quot;&gt;Sugerencias&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sé cortés y amable. El objetivo es la búsqueda de una comprensión más profunda.
+Respeta los diferentes pensamientos e ideas.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Complementa con imágenes or websites las intervenciones verbales preparadas de más de 3 min, recuerda no extenderte más de 10 min, todas las presentaciones incluyendo preguntas son de 10 min, como máximo.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;recordatorios&quot;&gt;Recordatorios&lt;&#x2F;h3&gt;
+&lt;p&gt;No fotos, no videos, pero audio recoding = OK&lt;&#x2F;p&gt;
+&lt;p&gt;Deja el espacio limpio&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;que-es-un-seminario-socratico-de-bitdevs&quot;&gt;Qué es un seminario socrático de BitDevs?&lt;&#x2F;h3&gt;
+&lt;p&gt;El seminario socrático de BitDev o Bitcoin developers es un evento mensual diseñado para promover el debate, el intercambio de información y la discusión sobre temas técnicos relacionados con Bitcoin y su ecosistema. Estos seminarios siguen un formato participativo, en el que se discuten y se hacen preguntas sobre temas recopilados por los miembros del grupo antes del evento.
+Los temas provienen de varias fuentes, como bitcoinops Optech, pull requests en repositorios populares de proyectos como Bitcoin.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Los Seminarios Socráticos se celebran bajo la Regla de &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;:&lt;&#x2F;li&gt;
+&lt;li&gt;Puedes compartir la información recibida, pero no reveles la identidad de quien la ha dicho.&lt;&#x2F;li&gt;
+&lt;li&gt;Cuando una reunión, o parte de ella, se celebra bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación del orador u oradores, ni dónde se escucho la información, ni la de ningún otro participante.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Source https:&#x2F;&#x2F;bitdevs.org&#x2F;running-a-great-socratic-seminar&#x2F;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncios&quot;&gt;Anuncios&lt;&#x2F;h3&gt;
+&lt;p&gt;Estamos muy contentos de presentar seminario socrático #1 &lt;a href=&quot;&#x2F;about&quot;&gt;Seminario Socratico&lt;&#x2F;a&gt;!
+Un agradecimiento especial a nuestros
+sponsors &lt;a href=&quot;https:&#x2F;&#x2F;libreriadesatoshi.com&#x2F;&quot;&gt;Libreria de Satoshi&lt;&#x2F;a&gt;
+por las bebidas y comida y el espacio &lt;a href=&quot;https:&#x2F;&#x2F;lacrypta.ar&#x2F;&quot;&gt;La Crypta&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;estadisticas-de-la-red&quot;&gt;Estadísticas de la Red&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;eventos-y-noticias&quot;&gt;Eventos y Noticias&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.satsconf.com.br&#x2F;&quot;&gt;Satconf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.labitconf.com&#x2F;&quot;&gt;Labitconf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.telekom.com&#x2F;en&#x2F;media&#x2F;media-information&#x2F;archive&#x2F;test-bitcoin-mining-infrastructure-for-surplus-energy-1082684&quot;&gt;Telekom tests Bitcoin mining with surplus energy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.btcpayserver.org&#x2F;case-study-namecheap&#x2F;&quot;&gt;Namecheap processes 1.1m transactions with BTCPay&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinnews.com&#x2F;mining&#x2F;canton-of-bern-switzerland-bitcoin-mining&#x2F;&quot;&gt;Swiss Canton of Bern Explores Bitcoin Mining to Optimize Energy Use&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinnews.com&#x2F;adoption&#x2F;russia-bitcoin-recognized-property&#x2F;&quot;&gt;Russia Officially Recognizes Bitcoin as Property, Introduces New Tax Laws&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.reviews&#x2F;31397&quot;&gt;Bitcoin Core PR Review Club&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;btcplusplus.dev&#x2F;conf&#x2F;floripa&quot;&gt;bitcoin++: Florianópolis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lanzamientos&quot;&gt;Lanzamientos&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;28.0&#x2F;&quot;&gt;Bitcoin Core 28.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.zeusln.com&#x2F;introducing-zeus-white&#x2F;&quot;&gt;Zeus White&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;business&#x2F;lightspark-announces-new-bitcoin-l2-and-upgraded-uma-capabilities&quot;&gt;Lightspark unveils an L2 using statechains&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;xcancel.com&#x2F;boltzhq&#x2F;status&#x2F;1853834574914113720&quot;&gt;Boltz BOLT 12 Swaps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.btcpayserver.org&#x2F;btcpay-server-2-0&#x2F;&quot;&gt;BTCPay Server 2.0: our biggest update yet!&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BtcpayServer&#x2F;status&#x2F;1851636343664791745&quot;&gt;video&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;hardware-wallets&quot;&gt;Hardware wallets&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;time.com&#x2F;7094838&#x2F;block-bitkey&#x2F;&quot;&gt;Bitkey featured in Time&#x27;s best inventions of 2024&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;jesseposner&#x2F;status&#x2F;1852394646997217742&quot;&gt;Bitkey Whitepaper&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;mineria&quot;&gt;Minería&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mining.build&#x2F;blog&#x2F;introducing-proto-building-the-future-of-bitcoin-mining-hardware-2&#x2F;&quot;&gt;Introducing Proto: Building the future of bitcoin mining hardware&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;ln-summit-2024-notes-summary-commentary&#x2F;1198&quot;&gt;LN Summit 2024 Notes &amp;amp; Summary&#x2F;Commentary&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;realtbast&#x2F;status&#x2F;1834213774674247987&quot;&gt;0 fee lightning tx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;sincronizacion-de-la-cadena&quot;&gt;Sincronización de la cadena&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;evoskuil&#x2F;status&#x2F;1847673128073187536&quot;&gt;libbitcoin syncs full blockchain in 1 hour&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;silent-payments&quot;&gt;Silent Payments&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.design&#x2F;guide&#x2F;how-it-works&#x2F;silent-payments&#x2F;&quot;&gt;Bitcoin Design Guide: Silent Payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;censura&quot;&gt;Censura&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;drops.dagstuhl.de&#x2F;entities&#x2F;document&#x2F;10.4230&#x2F;LIPIcs.AFT.2024.12&quot;&gt;Payment Censorship in the Lightning Network Despite Encrypted Communication&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;research-paper-on-ln-payment-censorship&#x2F;1248&quot;&gt;delvingbitcoin post&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;callebtc&#x2F;status&#x2F;1856679659523490046&quot;&gt;calle tweet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;escalamiento&quot;&gt;Escalamiento&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;a-fast-scalable-protocol-for-resolving-lightning-payments&#x2F;1233&quot;&gt;OPR - Offchain Payment Resolution Protocol&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories&#x2F;1143&quot;&gt;SuperScalar: Laddered Timeout-Tree-Structured Decker-Wattenhofer Factories&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;catprotocol.org&#x2F;&quot;&gt;CAT Protocol&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;criptografia&quot;&gt;Criptografía&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;reyify.com&#x2F;blog&#x2F;adaptors-generalised&#x2F;&quot;&gt;Adaptors generalized&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mailing-list.bitcoindevs.xyz&#x2F;bitcoindev&#x2F;b0f40eab-42f3-4153-8083-b455fbd17e19n@googlegroups.com&#x2F;&quot;&gt;DLEQ BIP Draft&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;revelacion-de-vulnerabilidades&quot;&gt;Revelación de vulnerabilidades&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;cve-2024-38365-public-disclosure-btcd-findanddelete-bug&#x2F;1184&quot;&gt;CVE-2024-38365 public disclosure (btcd &lt;code&gt;FindAndDelete&lt;&#x2F;code&gt; bug)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;2024&#x2F;10&#x2F;08&#x2F;disclose-blocktxn-crash&#x2F;&quot;&gt;Disclosure of CVE-2024-35202&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;2024&#x2F;10&#x2F;08&#x2F;disclose-large-inv-to-send&#x2F;&quot;&gt;Disclosure of DoS due to inv-to-send sets growing too large&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;2024&#x2F;10&#x2F;08&#x2F;disclose-mutated-blocks-hindering-propagation&#x2F;&quot;&gt;Disclosure of hindered block propagation due to mutated blocks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;2024&#x2F;11&#x2F;05&#x2F;cb-stall-hindering-propagation&#x2F;&quot;&gt;Disclosure of hindered block propagation due to stalling peers&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;proyectos-presentaciones&quot;&gt;Proyectos presentaciones:&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;guides.getalby.com&#x2F;user-guide&#x2F;alby-account-and-browser-extension&#x2F;alby-hub&#x2F;app-store&#x2F;subaccounts-friends-and-family&quot;&gt;Alby: NWC Isolated Connections&lt;&#x2F;a&gt; por JPL&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning-domains&#x2F;lightning-domains?tab=readme-ov-file&quot;&gt;La Wallet: Lightning Domain&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lawalletio&#x2F;la-wallet-monorepo&#x2F;pull&#x2F;53&quot;&gt;La Wallet: Badges and profile&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;financiacion&quot;&gt;Financiación&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blockstream.com&#x2F;press-releases&#x2F;2024-10-15-blockstream-secures-210m-dollars-led-fulgur-ventures-drive-layer-2-growth-expand-bitcoin-treasury&#x2F;&quot;&gt;Blockstream raises $210M from Fulgur etc.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;1a1z.com&#x2F;fund.html&quot;&gt;Report: Building Bitcoin - Funding a $1.2 Trillion Dollar Project&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;oportunidades-educativas-o-laborales&quot;&gt;Oportunidades educativas o laborales&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinerjobs.com&#x2F;&quot;&gt;Bitcoiner Jobs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.summerofbitcoin.org&#x2F;&quot;&gt;Summer of Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;learning.chaincode.com&#x2F;&quot;&gt;Chaincode Labs: Bitcoin and Lightning Protocol Development Education&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;recursos&quot;&gt;Recursos&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;bitcoin-core-28-wallet-integration-guide&#x2F;&quot;&gt;Guide for Wallets Employing Bitcoin Core 28.0 Policies&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;emailbtc.net&#x2F;&quot;&gt;EmailBTC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitvmx.org&#x2F;&quot;&gt;BitVMX website&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin-balance-api.com&#x2F;&quot;&gt;Bitcoin Balance API&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;spacesprotocol&#x2F;fabric&quot;&gt;Fabric, DNS resolver for spaces&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-dev-project&#x2F;battle-of-galen-erso&quot;&gt;Battle of Galen Erso&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;libbitcoin-for-core-people&#x2F;1222&quot;&gt;Libbitcoin for Core people&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>BitdevsBA Seminario Socratico #0 </title>
+        <published>2024-11-05T00:00:00+00:00</published>
+        <updated>2024-11-05T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.bitdevsba.org/socratic-seminar-0/"/>
+        <id>https://www.bitdevsba.org/socratic-seminar-0/</id>
+        
+        <content type="html" xml:base="https://www.bitdevsba.org/socratic-seminar-0/">&lt;h3 id=&quot;cronograma&quot;&gt;Cronograma&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00hrs Birras y empanadas por Librería de Satoshi&lt;&#x2F;p&gt;
+&lt;p&gt;18:30hrs Seminario Socrático por Librería de Satoshi&lt;&#x2F;p&gt;
+&lt;p&gt;20:30hrs Cierre y Networking&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;lugar&quot;&gt;Lugar&lt;&#x2F;h3&gt;
+&lt;p&gt;Este evento se llevará a cabo en &lt;strong&gt;B4OS Residency&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Si quieres que BitDevs sea en tu espacio: recruit@b4os.dev&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sugerencias&quot;&gt;Sugerencias&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sé cortés y amable. El objetivo es la búsqueda de una comprensión más profunda.
+Respeta los diferentes pensamientos e ideas.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Complementa con imágenes or websites las intervenciones verbales preparadas de más de 3 min, recuerda no extenderte más de 10 min, todas las presentaciones incluyendo preguntas son de 10 min como máximo.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;recordatorios&quot;&gt;Recordatorios&lt;&#x2F;h3&gt;
+&lt;p&gt;No fotos, no videos, pero audio recoding = OK&lt;&#x2F;p&gt;
+&lt;p&gt;Deja el espacio limpio.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;que-es-un-seminario-socratico-de-bitdevs&quot;&gt;Qué es un seminario socrático de BitDevs?&lt;&#x2F;h3&gt;
+&lt;p&gt;El seminario socrático de BitDevs o Bitcoin Developers es un evento mensual diseñado para promover el debate, el intercambio de información y la discusión sobre temas técnicos relacionados con Bitcoin y su ecosistema. Estos seminarios siguen un formato participativo, en el que se discuten y se hacen preguntas sobre temas recopilados por los miembros del grupo antes del evento.
+Los temas provienen de varias fuentes, como &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;publications&#x2F;&quot;&gt;Bitcoin Optech&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;&quot;&gt;lightning-dev&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;murchandamus&quot;&gt;Murch&#x27;s Twitter&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.reviews&#x2F;&quot;&gt;Bitcoin PR Review Club&lt;&#x2F;a&gt;, y pull requests en repositorios populares de proyectos Bitcoin.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Los Seminarios Socráticos se celebran bajo la Regla de &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;:&lt;&#x2F;li&gt;
+&lt;li&gt;Puedes compartir la información recibida, pero no reveles la identidad de quien la ha dicho.&lt;&#x2F;li&gt;
+&lt;li&gt;Cuando una reunión, o parte de ella, se celebra bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación del orador u oradores, ni dónde se escucho la información, ni la de ningún otro participante.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevs.org&#x2F;running-a-great-socratic-seminar&#x2F;&quot;&gt;Source&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;Estamos muy contentos de presentar el primer seminario socrático #0 &lt;a href=&quot;&#x2F;about&quot;&gt;Seminario Socrático&lt;&#x2F;a&gt;!
+Un agradecimiento especial a nuestros sponsors &lt;a href=&quot;https:&#x2F;&#x2F;libreriadesatoshi.com&#x2F;&quot;&gt;Libreria de Satoshi&lt;&#x2F;a&gt;
+por las bebidas y comida.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;estadisticas-de-la-red&quot;&gt;Estadísticas de la Red&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;funding&quot;&gt;Funding&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;s3.amazonaws.com&#x2F;1a1z.com&#x2F;files&#x2F;1A1z%20-%20Funding%20Bitcoin%20-%20Part%201.pdf&quot;&gt;1A1z &quot;Funding Bitcoin - Part 1&quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;opensats.org&#x2F;blog&#x2F;8th-wave-of-bitcoin-grants&quot;&gt;OpenSats Eighth Wave of Bitcoin Grants&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;spiralbtc&#x2F;status&#x2F;1848741207502885101?s=12&amp;amp;t=tjvL-eINwWwpULIItNU3KA&quot;&gt;Spiral funding PDK contributor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;spiralbtc&#x2F;status&#x2F;1851305676338868567&quot;&gt;Spiral grant for programming Lightning workshop+book&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;2140.dev&#x2F;&quot;&gt;2140 in Amsterdam&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;lclhostresearch&#x2F;status&#x2F;1850978751452233788&quot;&gt;Localhost Research launch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;social-media&quot;&gt;Social media&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;primal.net&#x2F;e&#x2F;note1d49pgrz5weukt0nv7ww8uwhjcxtwxf8gah6etefpg8raum8vxfnquxexgr&quot;&gt;Mat Odell&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;spark.info&#x2F;&quot;&gt;Spark from Lightspark&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;simplicity-arrives-on-liquid-testnet&#x2F;&quot;&gt;Simplicity arrives on Liquid testnet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;kdmukai&#x2F;e270dd1c7b53b8daea4a9fc1ac89847c&quot;&gt;SeedSigner &quot;firmware&quot; isn&#x27;t want you think it is&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-ideas&quot;&gt;New Ideas:&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lottery Dust - by Unhosted &amp;amp; Sliv3r&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;scalability-solutions-lightning-fedi-ark&quot;&gt;Scalability solutions, Lightning, Fedi, Ark&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;ln-summit-2024-notes-summary-commentary&#x2F;1198&quot;&gt;LN Summit 2024 Notes &amp;amp; Summary&#x2F;Commentary&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;8914&quot;&gt;Lnd PR8914&lt;&#x2F;a&gt; under review por z017&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;fedimint&#x2F;fedimint&#x2F;pull&#x2F;6147&quot;&gt;Fedimint PR6147&lt;&#x2F;a&gt; under review&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoindevkit&#x2F;bdk&#x2F;issues&#x2F;642&quot;&gt;BDK PR working with&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;thunderbiscuit.com&#x2F;posts&#x2F;ark&#x2F;&quot;&gt;The Ark Protocol: An Easy Introduction&lt;&#x2F;a&gt; under review by ifuensan&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;MostroP2P&#x2F;mostro&#x2F;discussions&#x2F;362&quot;&gt;keychain to keep reputation&lt;&#x2F;a&gt; Discussion on Mostro protocol development&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
